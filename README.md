@@ -1,5 +1,5 @@
 # -OTT-Platform-Website-Clone
-The objective of this project was to recreate the design and functionality of an OTT (Over-The-Top) platform website, such as Netflix, Amazon Prime, or Zee5, using HTML, CSS, and JavaScript. The project aimed to test skills in front-end development and user interface design.
+The objective of this project was to recreate the design and functionality of an OTT (Over-The-Top) platform website, such as Netflix using HTML, CSS, and JavaScript. 
 
 The website includes:
 
